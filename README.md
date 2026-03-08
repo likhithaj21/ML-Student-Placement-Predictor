@@ -2,6 +2,7 @@
 This project predicts student placement using academic and skill-based features like CGPA, aptitude, programming skills, internships, and projects. Machine learning models such as Logistic Regression, Random Forest, and Gradient Boosting are used to analyze key factors influencing placement outcomes.
 
 Student Placement Prediction using Machine Learning
+
 Objective
 1.	To understand the key factors that influence student placement outcomes.
 2.	To analyze student performance patterns using data analysis techniques.
